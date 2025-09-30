@@ -16,7 +16,7 @@ Once a project concludes and data collection and curation has been finalized, Co
 - [x] Verify that the data collection and work on the community has concluded.
 - [x] Verify that School/department has been informed of archiving and possible 'utlämnande'-assistance.
 - [x] All data can be published as open data. I.e. No restrictions to access apply.
-- [] Some/all data needs to be kept restricted. (list which)
-- [] Some/all data and metadata needs to be kept restricted.
-- [] List of persons requiring access after community has been archived has been submitted. 
-- [] 
+- [ ] Some/all data needs to be kept restricted. (list which)
+- [ ] Some/all data and metadata needs to be kept restricted.
+- [ ] List of persons requiring access after community has been archived has been submitted. 
+- [ ] 
